@@ -1,0 +1,16 @@
+# Datasets
+dataset/
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Secrets and local settings
+.env
+.streamlit/secrets.toml
+
+# Generated files
+outputs/
+temp/
