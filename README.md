@@ -18,6 +18,11 @@ Projeyi şu dizine çıkarın:
 ```text
 C:\TRAICK\caliper-removal-lab-ui
 ```
+## Test
+
+```powershell
+.\.venv\Scripts\python.exe -m pytest -q
+
 
 PowerShell:
 
